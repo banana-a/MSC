@@ -1,0 +1,30 @@
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 604891119@qq.com
+    password: cbfrxvvwwwhpbdgg
+    default-encoding: utf-8
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+  application:
+    name: msc-email-provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 120.79.85.200:8848
+
+
+server:
+  port: 7000
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

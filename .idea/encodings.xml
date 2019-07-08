@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/msc-activemq-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msc-db-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msc-db-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msc-dependencies" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msc-email-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msc-email-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msc-ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msc-ui" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="MSC" />
+        <module name="msc-activemq-provider" />
+        <module name="msc-db-consumer" />
+        <module name="msc-db-provider" />
+        <module name="msc-db-provider (1)" />
+        <module name="msc-email-consumer" />
+        <module name="msc-email-provider" />
+        <module name="msc-email-provider (1)" />
+        <module name="msc-ui" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hello-spring-cloud-alibaba-dependencies" target="1.8" />
+      <module name="MSC" target="1.8" />
+      <module name="msc-activemq-provider" target="1.8" />
+      <module name="msc-db-consumer" target="1.8" />
+      <module name="msc-db-provider" target="1.8" />
+      <module name="msc-db-provider (1)" target="1.8" />
+      <module name="msc-dependencies" target="1.8" />
+      <module name="msc-domain" target="1.8" />
+      <module name="msc-email-consumer" target="1.8" />
+      <module name="msc-email-provider" target="1.8" />
+      <module name="msc-email-provider (1)" target="1.8" />
+      <module name="msc-ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="msc-activemq-provider" options="-parameters" />
+      <module name="msc-db-consumer" options="-parameters" />
+      <module name="msc-db-provider" options="-parameters" />
+      <module name="msc-db-provider (1)" options="-parameters" />
+      <module name="msc-email-consumer" options="-parameters" />
+      <module name="msc-email-provider" options="-parameters" />
+      <module name="msc-email-provider (1)" options="-parameters" />
+      <module name="msc-ui" options="-parameters" />
+    </option>
+  </component>
+</project>
