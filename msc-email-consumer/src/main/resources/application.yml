@@ -25,5 +25,5 @@ myTopic: msc-activemq-topic
 
 #ribbon的超时时间
 ribbon:
-  ReadTimeout: 3000
-  ConnectTimeout: 3000
+  ReadTimeout: 200000
+  ConnectTimeout: 200000

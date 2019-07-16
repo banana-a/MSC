@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestBody;
  * @create: 2019-07-08 09:59
  **/
 
-@FeignClient(value = "msc-email-provider")
+@FeignClient(value = "msc-email-provider",fallback = MyFallBack.class)
 public interface FeignService {
 
     @PostMapping(value = "/email")

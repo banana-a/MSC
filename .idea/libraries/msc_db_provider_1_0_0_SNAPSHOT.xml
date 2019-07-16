@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="msc-db-provider-1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/msc-activemq-provider/src/main/resources/lib/msc-db-provider-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

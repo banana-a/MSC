@@ -6,6 +6,8 @@ import com.miracle.msc.db.provider.mapper.StudentMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import java.util.Arrays;
+
 /**
  * @program: MSC
  * @description:
@@ -22,6 +24,5 @@ public class DbService {
     public void insert(Student student){
         studentMapper.insert(student);
     }
-
 
 }

@@ -62,6 +62,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
+                    <classifier>exec</classifier>
                     <mainClass>com.miracle.msc.db.provider.DbProviderApplication</mainClass>
                 </configuration>
             </plugin>
