@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/msc-email-consumer/msc-email-consumer.iml" filepath="$PROJECT_DIR$/msc-email-consumer/msc-email-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/msc-email-provider/msc-email-provider.iml" filepath="$PROJECT_DIR$/msc-email-provider/msc-email-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/msc-ui/msc-email-provider (1).iml" filepath="$PROJECT_DIR$/msc-ui/msc-email-provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/msc-gateway/msc-gateway.iml" filepath="$PROJECT_DIR$/msc-gateway/msc-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/msc-ui/msc-ui.iml" filepath="$PROJECT_DIR$/msc-ui/msc-ui.iml" />
     </modules>
   </component>

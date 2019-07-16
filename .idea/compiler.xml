@@ -14,6 +14,7 @@
         <module name="msc-email-consumer" />
         <module name="msc-email-provider" />
         <module name="msc-email-provider (1)" />
+        <module name="msc-gateway" />
         <module name="msc-ui" />
       </profile>
     </annotationProcessing>
@@ -29,6 +30,7 @@
       <module name="msc-email-consumer" target="1.8" />
       <module name="msc-email-provider" target="1.8" />
       <module name="msc-email-provider (1)" target="1.8" />
+      <module name="msc-gateway" target="1.8" />
       <module name="msc-ui" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -41,6 +43,7 @@
       <module name="msc-email-consumer" options="-parameters" />
       <module name="msc-email-provider" options="-parameters" />
       <module name="msc-email-provider (1)" options="-parameters" />
+      <module name="msc-gateway" options="-parameters" />
       <module name="msc-ui" options="-parameters" />
     </option>
   </component>
