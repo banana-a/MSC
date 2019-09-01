@@ -23,6 +23,14 @@ spring:
           predicates:
             # Method 方法谓词，这里是匹配 GET 和 POST 请求
             - Method=GET,POST
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedMethods: "*"
+
+
+
 
 server:
   port: 9000
